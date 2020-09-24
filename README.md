@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -105,16 +100,6 @@ Project Link: [https://github.com/jorgifumi/OpenWeatherMapAPI](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jorgifumi/repo.svg?style=flat-square
-[contributors-url]: https://github.com/jorgifumi/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jorgifumi/repo.svg?style=flat-square
-[forks-url]: https://github.com/jorgifumi/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/jorgifumi/repo.svg?style=flat-square
-[stars-url]: https://github.com/jorgifumi/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jorgifumi/repo.svg?style=flat-square
-[issues-url]: https://github.com/jorgifumi/repo/issues
-[license-shield]: https://img.shields.io/github/license/jorgifumi/repo.svg?style=flat-square
-[license-url]: https://github.com/jorgifumi/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jorgifumi
 [product-screenshot]: images/screenshot.png
