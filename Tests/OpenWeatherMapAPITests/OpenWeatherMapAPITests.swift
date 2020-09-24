@@ -2,7 +2,9 @@ import XCTest
 @testable import OpenWeatherMapAPI
 
 final class OpenWeatherMapAPITests: XCTestCase {
-    func testExample() {
+    func testCreateClient() {
+
+        let client = OpenWeatherMapAPI(apikey: "1234")
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
